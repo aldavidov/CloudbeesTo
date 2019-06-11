@@ -89,5 +89,10 @@ Variable Path: butlers-pets/mysql_dev2_password<br>
 ID: mysql_password<br>
 
 
+38.
+Account:			cloudbeesdays<br>
+Appliance URL:		http://conjuross.cloudbeesdays.demo:8081<br>
+Conjur Auth Credential:	host/jenkins/global<br>
+
 
 
