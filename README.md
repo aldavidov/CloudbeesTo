@@ -97,3 +97,4 @@ Conjur Auth Credential:	host/jenkins/global<br>
 40. /home/training/Conjur/jenkinsfiles/global/Jenkinsfile<br>
 <46>. /home/training/Conjur/jenkinsfiles/dev_group_1/Jenkinsfile
 
+Dev_Group_2 /home/training/Conjur/jenkinsfiles/dev_group_2/Jenkinsfile
