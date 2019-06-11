@@ -42,6 +42,7 @@ Variable Path: butlers-pets/mysql_global_address
 ID: mysql_address
 
 34.
+Global Credentials<br>
 Kind: Conjur Secret Credential<br>
 Scope: Global<br>
 Variable Path: butlers-pets/mysql_global_username<br>
