@@ -36,7 +36,7 @@ pipeline {
                     ?>
                     <html>
                         <head>
-                            <title>Butler's Pets - CloudBees Days 2019</title>
+                            <title>Butler's Pets - CloudBees Days Toronto 2019</title>
                         </head>
                         <body>
                             <div align="center">
