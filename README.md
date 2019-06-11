@@ -42,15 +42,50 @@ Variable Path: butlers-pets/mysql_global_address
 ID: mysql_address
 
 34.
-Kind: Conjur Secret Credential
-Scope: Global
-Variable Path: butlers-pets/mysql_global_username
-ID: mysql_username
+Kind: Conjur Secret Credential<br>
+Scope: Global<br>
+Variable Path: butlers-pets/mysql_global_username<br>
+ID: mysql_username<br>
 
-Kind: Conjur Secret Credential
-Scope: Global
-Variable Path: butlers-pets/mysql_global_password
-ID: mysql_password
+Kind: Conjur Secret Credential<br>
+Scope: Global<br>
+Variable Path: butlers-pets/mysql_global_password<br>
+ID: mysql_password<br>
+
+36.
+Dev Group 1<br>
+Kind: Conjur Secret Credential<br>
+Scope: Global<br>
+Variable Path: butlers-pets/mysql_dev1_address<br>
+ID: mysql_address<br>
+
+Kind: Conjur Secret Credential<br>
+Scope: Global<br>
+Variable Path: butlers-pets/mysql_dev1_username<br>
+ID: mysql_username<br>
+
+Kind: Conjur Secret Credential<br>
+Scope: Global<br>
+Variable Path: butlers-pets/mysql_dev1_password<br>
+ID: mysql_password<br>
+
+----------------------------------------------------
+
+Dev Group 2<br>
+Kind: Conjur Secret Credential<br>
+Scope: Global<br>
+Variable Path: butlers-pets/mysql_dev2_address<br>
+ID: mysql_address<br>
+
+Kind: Conjur Secret Credential<br>
+Scope: Global<br>
+Variable Path: butlers-pets/mysql_dev2_username<br>
+ID: mysql_username<br>
+
+Kind: Conjur Secret Credential<br>
+Scope: Global<br>
+Variable Path: butlers-pets/mysql_dev2_password<br>
+ID: mysql_password<br>
 
 
 
