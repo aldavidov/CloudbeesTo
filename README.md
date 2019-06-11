@@ -94,5 +94,5 @@ Account:			cloudbeesdays<br>
 Appliance URL:		http://conjuross.cloudbeesdays.demo:8081<br>
 Conjur Auth Credential:	host/jenkins/global<br>
 
-
+40. /home/training/Conjur/jenkinsfiles/global/Jenkinsfile
 
